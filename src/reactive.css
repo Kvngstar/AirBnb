@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.reactiveImageContainer{
+    background-color: rgb(227, 250, 248);
+    margin: 40px 0px;
+    padding: 10px;
+    scroll-behavior: smooth;
+    position: relative;
+}
+.reactImage{
+    max-width: 150px;
+    height: auto;
+    margin-right: 20px;
+}
+.star--image--container{
+    font-size: 10px;
+
+}
+.star--image{
+    height: 10px;
+    width: 10px;
+    margin-right: 3px;
+}
+.reactiveImageContainer p{
+    font-size: 10px;
+    margin-top: 5px;
+}
+.soldout{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    padding: 3px;
+    margin: 5px;
+    border-radius: 5px;
+    
+
+}
